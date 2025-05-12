@@ -1,0 +1,56 @@
+body{
+    font-family: 'Georgia', serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    color: #222;
+    background-color: burlywood;
+}
+
+.parbeszed{
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+}
+
+p{
+    font-style: italic;
+    color: rgb(36, 36, 36);
+}
+
+h1{color: black;}
+
+.kép{
+    float: right;
+    width: 200px;
+
+}
+
+div{
+    text-align: center;
+}
+
+spam{
+    color: black;
+    font-weight: bold;
+}
+nav {
+    background-color: burlywood;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+  }
+  nav a {
+    margin-right: 15px;
+    color: #2a2a8e;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  img{
+    float: right;
+  }
